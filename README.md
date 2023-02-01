@@ -30,3 +30,5 @@ Escreve programas de computador que tome decisões baseadas em informações imp
   
   Ex: Japão - muitos atendentes de hotel, cuidadores de idosos foram substituidos por robôs
 ```
+
+Revista 3e
