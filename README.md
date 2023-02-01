@@ -25,8 +25,8 @@ Escreve programas de computador que tome decisões baseadas em informações imp
   - Preços Altos
   
   
-  <!-- 
+```
   Quanto mais caro é a mão de obra de base. Maior a requisição de sistemas automatizados 
   
   Ex: Japão - muitos atendentes de hotel, cuidadores de idosos foram substituidos por robôs
-  -->
+```
